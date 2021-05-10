@@ -1,0 +1,16 @@
+{
+  "name": "mineflayer-antiafk",
+  "version": "1.0.0",
+  "description": "An anti antiafk plugin for mineflayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.6.0",
+    "mineflayer-auto-eat": "^2.0.0",
+    "vec3": "^0.1.7"
+  }
+}
