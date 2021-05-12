@@ -98,6 +98,11 @@ If fishing is enabled, bot checks if it can start fishing(eg. if a fishing rod i
 - **default** 50000
 - Integer, interval between sent messages in ms
 
+### killauraEnabled
+
+- **default** true
+- Integer, defines if killaura should be enabled(only hostile mobs)
+
 ### autoEatEnabled
 
 - **default** true
