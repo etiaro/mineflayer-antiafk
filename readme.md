@@ -90,12 +90,12 @@ If fishing is enabled, bot checks if it can start fishing(eg. if a fishing rod i
 
 ### chatMessages
 
-- **default** ['Hi!', 'What am I doing here?', 'Oh, I dont care']
+- **default** ['!que', '!queue']
 - Array, messages to be sent by bot
 
 ### chatInterval
 
-- **default** 50000
+- **default** 300000
 - Integer, interval between sent messages in ms
 
 ### killauraEnabled
