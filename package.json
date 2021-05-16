@@ -1,6 +1,6 @@
 {
   "name": "mineflayer-antiafk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An anti antiafk plugin for mineflayer",
   "main": "index.js",
   "scripts": {
