@@ -26,11 +26,14 @@ Then, here's example js code:
 const mineflayer = require("mineflayer");
 const bot = mineflayer.createBot();
 const antiafk = require("mineflayer-antiafk");
+
 bot.loadPlugin(antiafk);
+
 bot.on("spawn", () => {
-  bot.setOptions({ fishing: false }); //disables fishing
+  bot.afk.setOptions({ fishing: false }); //disables fishing
   bot.afk.start();
 });
+
 bot.on("health", () => {
   if (bot.health < 5) bot.afk.stop();
 });
