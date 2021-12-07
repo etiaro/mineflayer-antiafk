@@ -126,7 +126,7 @@ interface afkOptions {
 
   // mineflayer-auto-eat has no type definition
   /**
-   * Object mineflayer-auto-eat configurations(look [a](https://google.com/))
+   * Object mineflayer-auto-eat configurations(look [here](https://github.com/LINKdiscordd/mineflayer-auto-eat#botautoeatoptions))
    * @default
    * {
    *   priority: "foodPoints",
