@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mineflayer-auto-eat": "^2.0.0",
+    "mineflayer-auto-eat": "^3.3.6",
     "vec3": "^0.1.7"
   },
   "devDependencies": {
-    "mineflayer": "^3.6.0"
+    "mineflayer": "^4.8.1"
   }
 }
